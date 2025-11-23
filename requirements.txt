@@ -52,3 +52,5 @@ watchdog==6.0.0
 webdriver-manager==4.0.2
 websocket-client==1.9.0
 wsproto==1.3.2
+matplotlib==3.9.2
+seaborn==0.13.2
